@@ -1,0 +1,6 @@
+name,environment,cpu,ram_gb,cost_per_hour
+vm1,prod,4,16,0.25
+vm2,dev,2,8,0.10
+vm3,prod,8,32,0.40
+vm4,qa,4,16,0.15
+vm5,prod,16,64,0.80
